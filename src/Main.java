@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
-
+// FUNKCIJOS
         // 1. Sukurkite Funkciją kuri priima du kintamuosius. Juos susumuoja ir atspausdina.
 
         System.out.println("\n nr.1");
